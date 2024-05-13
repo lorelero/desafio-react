@@ -1,4 +1,4 @@
-Buscador de peliculas - Integracion Api en React Vite
+Buscador de peliculas - Consumo de APIs con React
 
 https://github.com/lorelero/desafio-react
 
